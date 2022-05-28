@@ -1,0 +1,7 @@
+location / {
+        index index.php index.html;
+        if (!-e $request_filename)
+        {
+                rewrite ^/(.+)$ /do.php?uid=$1 last;
+        }
+}

@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS `urllist`;
+CREATE TABLE `urllist` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `uid` varchar(10) DEFAULT NULL,
+  `longurl` varchar(99999) DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
