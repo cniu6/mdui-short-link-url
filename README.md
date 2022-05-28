@@ -1,10 +1,4 @@
-## mdui-short-link-url
-<h1 align="center">
-
-一个开源的mdui风格短链接系统
-  <br>
-</h1>
-
+原版
 ## 环境 
 
 PHP+MySql即可，可以安装在虚拟主机里
@@ -37,15 +31,12 @@ POST / GET<br/>
 
 
 
-## DEMO
-
-- <a href="https://demo.cloudreve.org">零时短链接</a>
   
 ## 我们站在巨人的肩膀上
 -[MDUI](http://mdui.org/)
   And  You
 ## 其他
 ```
- 这是网上流传的源码 来源于 [@2D天天]（http://b23.tv?KlAxWcd）
+ 这是网上流传的源码 来源于 [@2D天天]（http://b23.tv/KlAxWcd）在库中下载原版
 
 ```
