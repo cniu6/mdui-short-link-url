@@ -5,14 +5,14 @@
   <br>
 </h1>
 
-适合个人使用
+适合个人使用,只是把链接缩短储存,相同网址会取相同短链。
 
 ## 环境 
 
 PHP+MySql即可，可以安装在虚拟主机里
 
 ## 安装
-<h3>Step</h3>
+<h3>Steps</h3>
 在Releases下载最新zip<br/>
 解压<br/>
 Nginx伪静态在 ./jingtai.txt 中<br/>
@@ -41,7 +41,7 @@ POST / GET<br/>
 
 ## DEMO
 
-- <a href="https://demo.cloudreve.org">零时短链接</a>
+- <a href="http://url.zerohh.top">零时短链接</a>
   
 ## 我们站在巨人的肩膀上
 -[MDUI](http://mdui.org/)
